@@ -1,4 +1,4 @@
-![cover-image](https://github.com/0xS4r4n9/SubHawk/blob/main/Subhawk.png)
+![cover-image](https://github.com/0xS4r4n9/SubHawk/blob/main/Subhawk_git.png)
 
 # Subdomain Takeover Scanner
 
