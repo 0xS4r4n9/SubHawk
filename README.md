@@ -1,3 +1,5 @@
+![cover-image](https://github.com/0xS4r4n9/SubHawk/blob/main/Subhawk.png)
+
 # Subdomain Takeover Scanner
 
 A comprehensive Python tool for detecting subdomain takeover vulnerabilities across various cloud platforms and services.
